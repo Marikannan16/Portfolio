@@ -14,12 +14,7 @@ def sendemail():
 		subject = request.form['subject'] 
 		email = request.form['email'] 
 		message = request.form['message'] 
-		mobile="Contact.No:+91 9789586078"
-		Linkedin="Linkedin:https://www.linkedin.com/in/mari-kannan-b-66ab67227"
 		
-		
-		
-
 		# Set your credentials 
 		yourEmail = "capkannan16@gmail.com"
 		yourPassword = "dcms lixe aklk hjml"
